@@ -16,6 +16,7 @@
 		08AE05862635CEED00703D54 /* ItemModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08AE05852635CEED00703D54 /* ItemModel.swift */; };
 		08AE059B2635FEB400703D54 /* ListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08AE059A2635FEB400703D54 /* ListViewModel.swift */; };
 		08AE05B42636FC8B00703D54 /* NoItemsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08AE05B32636FC8B00703D54 /* NoItemsView.swift */; };
+		08AE05BC2637558400703D54 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 08AE05BB2637558400703D54 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		08AE05852635CEED00703D54 /* ItemModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemModel.swift; sourceTree = "<group>"; };
 		08AE059A2635FEB400703D54 /* ListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewModel.swift; sourceTree = "<group>"; };
 		08AE05B32636FC8B00703D54 /* NoItemsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoItemsView.swift; sourceTree = "<group>"; };
+		08AE05BB2637558400703D54 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 				08AE057E263572D400703D54 /* ListRowView.swift */,
 				08AE0581263575CC00703D54 /* AddView.swift */,
 				08AE05B32636FC8B00703D54 /* NoItemsView.swift */,
+				08AE05BB2637558400703D54 /* LaunchScreen.storyboard */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -165,6 +168,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				08AE05BC2637558400703D54 /* LaunchScreen.storyboard in Resources */,
 				08AE05702635701600703D54 /* Preview Assets.xcassets in Resources */,
 				08AE056D2635701600703D54 /* Assets.xcassets in Resources */,
 			);
